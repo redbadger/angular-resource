@@ -1,0 +1,9 @@
+{
+  "name": "angular-resource",
+  "version": "0.0.0",
+  "description": "angular-resource for angular.js",
+  "scripts": [
+    "index.js"
+  ],
+  "repo": "https://raw.github.com/redbadger/angular-resource"
+}
